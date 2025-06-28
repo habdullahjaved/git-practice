@@ -45,7 +45,7 @@ Create an empty repo named git-practice on GitHub (without README or license).
 
 ### Then link your local repo to GitHub and push the initial commit:
 
-git remote add origin https://github.com/yourusername/git-practice.git
+git remote add origin https://github.com/habdullahjaved/git-practice.git
 git branch -M main
 git push -u origin main
 Create a Feature Branch
