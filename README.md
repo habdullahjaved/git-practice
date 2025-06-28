@@ -88,7 +88,7 @@ git push origin --delete feature/footer
 git init
 git add .
 git commit -m "feat: initial project setup"
-git remote add origin https://github.com/yourusername/git-practice.git
+git remote add origin https://github.com/habdullahjaved/git-practice.git
 git branch -M main
 git push -u origin main
 
