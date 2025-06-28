@@ -4,3 +4,12 @@ body {
   text-align: center;
   padding-top: 50px;
 }
+footer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+footer ul li {
+  list-style: none;
+}
